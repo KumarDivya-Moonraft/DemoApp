@@ -1,1 +1,1 @@
-# DemoApp
+Redux thunk, Redux Toolkit and Auth Flow
